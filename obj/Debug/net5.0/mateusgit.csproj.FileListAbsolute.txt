@@ -1,0 +1,16 @@
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\bin\Debug\net5.0\mateusgit.exe
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\bin\Debug\net5.0\mateusgit.deps.json
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\bin\Debug\net5.0\mateusgit.runtimeconfig.json
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\bin\Debug\net5.0\mateusgit.runtimeconfig.dev.json
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\bin\Debug\net5.0\mateusgit.dll
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\bin\Debug\net5.0\ref\mateusgit.dll
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\bin\Debug\net5.0\mateusgit.pdb
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\obj\Debug\net5.0\mateusgit.csproj.AssemblyReference.cache
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\obj\Debug\net5.0\mateusgit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\obj\Debug\net5.0\mateusgit.AssemblyInfoInputs.cache
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\obj\Debug\net5.0\mateusgit.AssemblyInfo.cs
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\obj\Debug\net5.0\mateusgit.csproj.CoreCompileInputs.cache
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\obj\Debug\net5.0\mateusgit.dll
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\obj\Debug\net5.0\ref\mateusgit.dll
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\obj\Debug\net5.0\mateusgit.pdb
+C:\Users\TREINAMENTO12\source\repos\mateusgit\mateusgit\obj\Debug\net5.0\mateusgit.genruntimeconfig.cache
